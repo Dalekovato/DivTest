@@ -22,7 +22,9 @@ _______________________________________________________________________________
 5- MVVM
 
 Внешний вид 
+
 ![image](https://github.com/user-attachments/assets/186cfbf7-5604-40ef-941b-2b1a9b501c26)
 
 Отработка запросов
+
 ![image](https://github.com/user-attachments/assets/0b6bc72a-5127-466c-b24c-f107c9b82fa3)
