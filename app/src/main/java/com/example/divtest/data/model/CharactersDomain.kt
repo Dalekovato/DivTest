@@ -1,4 +1,4 @@
-package com.example.divtest.domain.model
+package com.example.divtest.data.model
 
 import com.example.divtest.data.networkDto.StatusImgNetwork
 

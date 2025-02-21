@@ -1,8 +1,8 @@
-package com.example.divtest.domain.mapper
+package com.example.divtest.data.mapper
 
 import com.example.divtest.data.networkDto.CharacterDtoNetwork
 import com.example.divtest.data.networkDto.StatusImgNetwork
-import com.example.divtest.domain.model.CharactersDomain
+import com.example.divtest.data.model.CharactersDomain
 
 class CharacterMapperNetwork(characterDto: CharacterDtoNetwork) {
 

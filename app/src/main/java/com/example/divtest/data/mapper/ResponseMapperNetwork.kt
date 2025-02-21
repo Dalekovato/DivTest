@@ -1,7 +1,7 @@
-package com.example.divtest.domain.mapper
+package com.example.divtest.data.mapper
 
 import com.example.divtest.data.networkDto.CharacterResponseNetwork
-import com.example.divtest.domain.model.ResponseDomain
+import com.example.divtest.data.model.ResponseDomain
 
 class ResponseMapperNetwork(characterResp: CharacterResponseNetwork) {
 

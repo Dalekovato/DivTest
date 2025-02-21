@@ -1,7 +1,7 @@
-package com.example.divtest.domain.mapper
+package com.example.divtest.data.mapper
 
 import com.example.divtest.data.networkDto.InfoDtoNetwork
-import com.example.divtest.domain.model.InfoDomain
+import com.example.divtest.data.model.InfoDomain
 
 class InfoMapperNetwork(infoDto: InfoDtoNetwork?) {
 

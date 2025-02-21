@@ -1,4 +1,4 @@
-package com.example.divtest.domain.mapper
+package com.example.divtest.data.mapper
 
 import com.example.divtest.data.networkDto.CharacterDtoNetwork
 

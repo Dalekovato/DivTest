@@ -38,7 +38,7 @@ import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.example.divtest.R
 import com.example.divtest.data.networkDto.StatusImgNetwork
-import com.example.divtest.domain.model.CharactersDomain
+import com.example.divtest.data.model.CharactersDomain
 import com.skydoves.landscapist.glide.GlideImage
 
 @Composable

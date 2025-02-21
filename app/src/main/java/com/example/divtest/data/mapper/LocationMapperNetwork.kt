@@ -1,7 +1,7 @@
-package com.example.divtest.domain.mapper
+package com.example.divtest.data.mapper
 
 import com.example.divtest.data.networkDto.LocationDtoNetwork
-import com.example.divtest.domain.model.LocationDomain
+import com.example.divtest.data.model.LocationDomain
 
 class LocationMapperNetwork(locationDto: LocationDtoNetwork?) {
 

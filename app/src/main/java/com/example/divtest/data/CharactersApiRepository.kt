@@ -4,8 +4,8 @@ import com.example.divtest.data.networkDto.CharacterDtoNetwork
 import com.example.divtest.data.networkDto.LocationDtoNetwork
 import com.example.divtest.data.networkDto.OriginDtoNetwork
 import com.example.divtest.data.networkDto.StatusImgNetwork
-import com.example.divtest.domain.mapper.CharactersMapperNetwork
-import com.example.divtest.domain.model.CharactersDomain
+import com.example.divtest.data.mapper.CharactersMapperNetwork
+import com.example.divtest.data.model.CharactersDomain
 import retrofit2.Response
 import javax.inject.Inject
 
